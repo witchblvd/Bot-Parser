@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iI6Y9YcIUM732Di4Jnp2A2Xa+Lqq+e/m2QhTQ9x50rUVNErmk6rIwgKVW1CaUyW/pygETtk2a/ZXlr8tTC/Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Новая папка (10)\\TelegramBot\\TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\alice\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

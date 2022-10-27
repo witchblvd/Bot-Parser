@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dp5VJEYQ43WXwCdtAR2z5jqFouhQw9WWatcgzau92J7geT6gOQcXhOafJYE08hxcxrj1lsDZkXP+Ob5FYuPjbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Новая папка (10)\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
