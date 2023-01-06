@@ -7,7 +7,7 @@ namespace TelegramBot
     {
 
 
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
             BotWorker botWorker = new BotWorker(); 
             botWorker.Start();
